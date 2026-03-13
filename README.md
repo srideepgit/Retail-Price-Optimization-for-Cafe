@@ -39,3 +39,105 @@ The goal of this project is to:
 ---
 
 # 🗂 Project Workflow
+
+
+---
+
+# 📥 Data Sources
+
+The analysis uses multiple datasets stored in CSV format.
+
+| Dataset | Description |
+|------|-------------|
+| Menu Data | Contains burger items and product pricing |
+| Sales Data | Historical transaction records |
+| Customer Data | Customer purchase behavior |
+
+These datasets are merged to create a **single analytical dataset for modeling**.
+
+---
+
+# 🔎 Exploratory Data Analysis (EDA)
+
+EDA helps understand relationships within the dataset.
+
+### Key Analysis
+
+- Sales trends across menu items
+- Customer purchasing behavior
+- Product demand patterns
+- Impact of pricing on sales volume
+- Revenue contribution by product
+
+### Example Insights
+
+- Certain products show **high price sensitivity**
+- Premium items generate **higher margins but lower sales volume**
+- Optimal price ranges maximize both **demand and revenue**
+
+---
+
+# 🤖 Model Development
+
+The project uses **Ordinary Least Squares (OLS) Regression** to model the relationship between:
+
+- Product Price
+- Sales Volume
+- Revenue
+
+This model helps estimate **how changes in price influence customer demand**.
+
+---
+
+# 📈 Price Optimization Strategy
+
+Using the regression model, different pricing scenarios are simulated to identify:
+
+- Revenue-maximizing price points
+- Demand-sensitive products
+- High-margin pricing opportunities
+
+The final output provides **data-driven pricing recommendations**.
+
+---
+
+# 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|----|----|
+| Python | Data Analysis |
+| Pandas | Data Manipulation |
+| NumPy | Numerical Computing |
+| Matplotlib | Data Visualization |
+| Seaborn | Statistical Visualization |
+| Statsmodels | OLS Regression Modeling |
+| Jupyter Notebook | Development Environment |
+
+---
+
+# 📊 Skills Demonstrated
+
+This project highlights key **Data Analyst skills**:
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Modeling
+- Business Problem Solving
+- Data Visualization
+- Pricing Strategy Analysis
+
+---
+
+# 🚀 Future Improvements
+
+Possible improvements include:
+
+- Implementing **Machine Learning models (Random Forest / XGBoost)**
+- Building a **Power BI pricing dashboard**
+- Adding **demand elasticity modeling**
+- Creating an **automated pricing recommendation system**
+
+---
+
+# 📂 Project Structure
+
