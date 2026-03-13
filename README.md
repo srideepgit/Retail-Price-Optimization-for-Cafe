@@ -1,6 +1,6 @@
 # ☕ Retail Price Optimization for a Café
 
-![Price Optimization]()
+![Price Optimization](https://drive.google.com/file/d/1nSib69k9QDAXP0MIIKs08Uy1FPRtVK26/view?usp=drive_link)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
