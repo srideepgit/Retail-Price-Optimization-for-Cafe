@@ -1,4 +1,4 @@
-# 🍔 Smart Pricing Optimization for Burger Café
+# 🍔 Smart Retail Pricing Optimization for Café
 
 ![Price Optimization](https://miro.medium.com/v2/resize:fit:1400/1*MBiak1dDipFj13lyQaEwtg.png)
 
@@ -13,7 +13,7 @@
 
 Pricing plays a critical role in the profitability of restaurants and food businesses. Setting prices too high can reduce demand, while pricing too low can reduce profit margins.
 
-This project focuses on **analyzing sales data and customer demand patterns to determine optimal pricing for menu items in a burger café**.
+This project focuses on **analyzing sales data and customer demand patterns to determine optimal pricing for menu items in a café**.
 
 Using **data analytics and statistical modeling**, the project identifies price points that maximize **revenue and profitability while maintaining customer demand**.
 
@@ -40,7 +40,6 @@ The goal of this project is to:
 
 # 🗂 Project Workflow
 
-
 ---
 
 # 📥 Data Sources
@@ -49,7 +48,7 @@ The analysis uses multiple datasets stored in CSV format.
 
 | Dataset | Description |
 |------|-------------|
-| Menu Data | Contains burger items and product pricing |
+| Menu Data | Contains cafe items and product pricing |
 | Sales Data | Historical transaction records |
 | Customer Data | Customer purchase behavior |
 
@@ -140,4 +139,19 @@ Possible improvements include:
 ---
 
 # 📂 Project Structure
+
+---
+
+# 📬 Contact
+
+**Srideep Sarkar**  
+Data Analyst  
+
+Email: srideeppersonal@gmail.com  
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
 
